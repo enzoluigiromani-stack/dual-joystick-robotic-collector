@@ -1,4 +1,4 @@
-# Dual-Joystick Bluetooth Robotic Collector 🤖🔵
+# Dual-Joystick Bluetooth Robotic Collector 🔵
 
 A mechatronics project featuring a robotic rover controlled via Bluetooth, designed for precision ball collection, internal storage, and controlled release.
 
